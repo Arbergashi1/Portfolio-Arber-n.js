@@ -15,15 +15,15 @@ const Main = () => {
         
         <div className='max-w-[1240px] w-full h-full mx-auto p-2 flex justify-center items-center'>
             <div>
-              <p className='uppercase text-sm tracking-widest'>Let's buil something together</p>
+              <p className='uppercase text-sm tracking-widest'>Lets buil something together</p>
               <h1 className='py-4 text-gray-700'>
-                Hi, I'm <span className='text-[#5651e5]'>Arber</span>
+                Hi, I am <span className='text-[#5651e5]'>Arber</span>
               </h1>
               <h1 className='py-2 text-gray-700'>
                 A Software Developer
               </h1>
               <p className='py-4 text-gray-600 max-w-[70%] m-auto'>
-                I'm a software developer specialiesed on building, designing, deployeing and maintaining Programs 
+                I amm a software developer specialiesed on building, designing, deployeing and maintaining Programs 
                 using many different skills and tools. I build software systems that power networks, devices and
                 ensure that those systems remain functional.
               </p>
