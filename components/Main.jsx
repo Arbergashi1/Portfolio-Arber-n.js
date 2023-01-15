@@ -23,7 +23,7 @@ const Main = () => {
                 A Software Developer
               </h1>
               <p className='py-4 text-gray-600 max-w-[70%] m-auto'>
-                I amm a software developer specialiesed on building, designing, deployeing and maintaining Programs 
+                I am a software developer specialiesed on building, designing, deployeing and maintaining Programs 
                 using many different skills and tools. I build software systems that power networks, devices and
                 ensure that those systems remain functional.
               </p>
